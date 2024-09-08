@@ -1,4 +1,4 @@
-## <img src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.webp?cid=ecf05e47c06octm6cg4e4vdqgoxww4d0jy8p5p30e0zmbsbq&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="50" height="50"> Hola, mi nombres es Antony Carrasco 👋
+## <img src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.webp?cid=ecf05e47c06octm6cg4e4vdqgoxww4d0jy8p5p30e0zmbsbq&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="50" height="50"> Hola, mi nombre es Antony Carrasco 👋
 >Ingeniero de Sistemas por la Universidad Nacional Pedro Ruiz Gallo - Perú
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-yonatan-carrasco-alarcon-68a23a324/)
